@@ -104,20 +104,20 @@
   }
   
 
-  @media (max-width: 550px) {
+  @media (min-width: 1px) {
   p {
     margin-top: 0;
-    max-width: 95%;}
+    max-width: 100%;}
   }
   
 
-  @media (max-width: 800px) {
+  @media (min-width: 800px) {
   p {
     margin-top: 0;
     max-width: 80%;}
   }
   
-  @media (min-width: 801px) {
+  @media (min-width: 1000px) {
   p {
     margin-top: 0;
     max-width: 60%;}
