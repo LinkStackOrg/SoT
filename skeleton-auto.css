@@ -114,13 +114,13 @@
   @media (min-width: 800px) {
   p {
     margin-top: 0;
-    max-width: 80%;}
+    max-width: 60%;}
   }
   
   @media (min-width: 1000px) {
   p {
     margin-top: 0;
-    max-width: 60%;}
+    max-width: 40%;}
   }
   
 
