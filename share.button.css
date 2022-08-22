@@ -55,7 +55,7 @@
     border-radius: 8px;
     cursor: pointer;
     color: #fff !important; 
-    background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/green-button-sprite.svg) 0 0/100% 100% no-repeat !important;
+    background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/green-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
    }
 @media screen and (min-width: 600px) {
   .sharebutton,
@@ -74,7 +74,7 @@
     border-radius: 8px;
     cursor: pointer;
     color: #fff !important; 
-    background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/green-button-sprite.svg) 0 0/100% 100% no-repeat !important;
+    background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/green-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
    }
 }
 sharebutton:hover,
