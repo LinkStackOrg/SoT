@@ -41,7 +41,7 @@
       cursor: pointer;
       font-family: "sottext", sans-serif !important;
       text-transform: uppercase;
-      background: url(https://seaofthieveswebassetsprod.azureedge.net/12342d32796c234638a1f65ad87c0e7e/assets/button/turquoise-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
+      background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/turquoise-button-sprite.svg) 0 0/100% 100% no-repeat !important;
      }
   }
   
@@ -63,7 +63,7 @@
         cursor: pointer;
         font-family: "sottext", sans-serif !important;
         text-transform: uppercase;
-        background: url(https://seaofthieveswebassetsprod.azureedge.net/12342d32796c234638a1f65ad87c0e7e/assets/button/turquoise-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
+        background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/turquoise-button-sprite.svg) 0 0/100% 100% no-repeat !important;
        }
     }
 
@@ -85,7 +85,7 @@
       cursor: pointer;
       font-family: "sottext", sans-serif !important;
       text-transform: uppercase;
-      background: url(https://seaofthieveswebassetsprod.azureedge.net/12342d32796c234638a1f65ad87c0e7e/assets/button/turquoise-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
+      background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/turquoise-button-sprite.svg) 0 0/100% 100% no-repeat !important;
      }
   }
 button:hover,
