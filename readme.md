@@ -2,11 +2,12 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Sot
-*	Theme Version: 1.3
+*	Theme Version: 1.4
 *	Theme Date: 2022-07-03
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3 (Non-commercial use only)
+*	Source code: https://github.com/YourGitHubName/ThemeName
 
 
 ### Used assets:
