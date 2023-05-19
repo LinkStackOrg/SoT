@@ -13,9 +13,6 @@
 
 */
 
-@font-face{font-family:'sottitle';src:url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/windlass.ttf)}
-@font-face{font-family:'sottext';src:url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/pragroman.ttf)}
-
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
@@ -57,36 +54,6 @@
   /* NOTE
   html is set to 62.5% so that all the REM measurements throughout Skeleton
   are based on 10px sizing. So basically 1.5rem = 15px :) */
-  
-  html {
-    font-size: 100%; }
-
-      body {
-        font-size: 18px;
-        line-height: 24px;
-        font-weight: 400;
-        color: #F1F1F1  !important;
-        font-family: "sottext", sans-serif;
-        text-transform: uppercase;
-        background:
-        linear-gradient(
-          rgba(0, 0, 0, 0.7), 
-          rgba(0, 0, 0, 0.7)
-        ),
-        url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/background.jpg);
-        background-size: cover;
-        color: #222; }
-
-
-/* Use this for a fixed background color instead of dark and light mode
-    body {
-      font-size: 18px;
-      line-height: 24px;
-      font-weight: 400;
-      font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-        sans-serif;
-    }
-*/
   
   /* Typography
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
