@@ -39,44 +39,7 @@
   -webkit-transform: translateY(-150px);
   transform: translateY(-150px);
 }
-  .sharebutton,
-  sharebutton {
-    display: inline-block;
-    text-decoration: none;
-    height: 48px;
-    text-align: center;
-    vertical-align: middle;
-    font-size: 14px;
-    width: 48px;
-    font-weight: 100;
-    line-height: 48px;
-    letter-spacing: 0.1px;
-    white-space: wrap;
-    border-radius: 8px;
-    cursor: pointer;
-    color: #fff !important; 
-    background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/green-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
-   }
-@media screen and (min-width: 600px) {
-  .sharebutton,
-  sharebutton {
-    display: inline-block;
-    text-decoration: none;
-    height: 48px;
-    text-align: center;
-    vertical-align: middle;
-    font-size: 14px;
-    width: 150px;
-    font-weight: 100;
-    line-height: 48px;
-    letter-spacing: 0.1px;
-    white-space: wrap;
-    border-radius: 8px;
-    cursor: pointer;
-    color: #fff !important; 
-    background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/green-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
-   }
-}
+
 sharebutton:hover,
 .sharebutton:hover {
   color: #000000;
