@@ -31,71 +31,7 @@
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-  @media (max-width: 400px) {
-  .button,
-    button {
-      display: inline-block;
-      text-decoration: none;
-      text-align: center;
-      vertical-align: middle;
-      font-size: 14px !important;
-      color: #fff !important;
-      height: 48px;
-      width: 100%;
-      font-weight: 100;
-      line-height: 48px;
-      letter-spacing: 0.1px;
-      white-space: wrap;
-      cursor: pointer;
-      font-family: "sottext", sans-serif !important;
-      text-transform: uppercase;
-      background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/turquoise-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
-     }
-  }
-  
-  @media (max-width: 550px) {
-    .button,
-      button {
-        display: inline-block;
-        text-decoration: none;
-        text-align: center;
-        vertical-align: middle;
-        font-size: 14px !important;
-        color: #fff !important;
-        height: 48px;
-        width: 80%;
-        font-weight: 100;
-        line-height: 48px;
-        letter-spacing: 0.1px;
-        white-space: wrap;
-        cursor: pointer;
-        font-family: "sottext", sans-serif !important;
-        text-transform: uppercase;
-        background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/turquoise-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
-       }
-    }
 
-  @media (min-width: 551px) {
-  .button,
-    button {
-      display: inline-block;
-      text-decoration: none;
-      text-align: center;
-      vertical-align: middle;
-      font-size: 14px !important;
-      color: #fff !important;
-      height: 60px;
-      width: 400px;
-      font-weight: 100;
-      line-height: 60px;
-      letter-spacing: 0.1px;
-      white-space: wrap;
-      cursor: pointer;
-      font-family: "sottext", sans-serif !important;
-      text-transform: uppercase;
-      background: url(https://raw.githubusercontent.com/JulianPrieber/SoT/main/turquoise-button-sprite.svg#off) 0 0/100% 100% no-repeat !important;
-     }
-  }
 button:hover,
 .button:focus {
   color: #333;
