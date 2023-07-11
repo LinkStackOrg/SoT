@@ -2,7 +2,7 @@
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: SoT
-*	Theme Version: 1.7
+*	Theme Version: 1.8
 *	Theme Date: 2022-07-03
 *	Theme Author: JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/JulianPrieber
